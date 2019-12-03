@@ -3,7 +3,7 @@ We have seen the need of online bookstore which specialized only on computer boo
 
 ## Login :
 the first page, you should have an account to access this page or you will get an error alert .
-
+![](login.png)
 
 ## Sign Up : 
 if you do not have an account you can make one , password should be more than eight characters, or you will get an error alert .
@@ -37,7 +37,7 @@ This page is responsible for confirming the information by entering your card nu
 that shows a phrase of thanks to the visitor and offers them the possibility to return to the home page .
 ![](done.png)
 
-# If you log in by the admin account, you will be able to add new books or even modify information’s books :
+# If you login by the admin account, you will be able to add new books or even modify information’s books :
 
 ## The first page in the Admin:
 shows all books if he wants to change some content in the books or add a new book. 
