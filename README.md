@@ -3,7 +3,7 @@ We have seen the need of online bookstore which specialized only on computer boo
 
 ## Login :
 the first page, you should have an account to access this page or you will get an error alert .
-![](login.png )
+
 
 ## Sign Up : 
 if you do not have an account you can make one , password should be more than eight characters, or you will get an error alert .
