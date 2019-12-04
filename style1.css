@@ -1,0 +1,109 @@
+#header{
+    background-image: url(home.jpg);
+    background-size: cover; 
+    color: white;
+    width: 100%;
+}
+#phrase {
+    font-size: 500%;
+    margin-left: 20px;
+}
+h2{
+    font-size: 30px;
+    text-align: center;
+    color: #333;
+}
+#welcoming{
+font-size: 50px;
+color:#bde1b5;
+background-color: #0c2e466e;
+    padding: 10px;
+}
+.topnav {
+  background-color: #333;
+  overflow: hidden;
+  text-align: right;
+        
+}
+#menu{
+    color: white;
+    font-family: Freestyle Script;
+    font-size: 40px;
+    text-decoration:none;
+    margin: 10px;
+}
+
+#books{
+    display: inline-block;
+    vertical-align: middle;
+    border-spacing: 20px;
+    
+}
+
+#book{
+    display: table-cell;
+    vertical-align: middle;
+    background-color: #4E8975;
+    text-align: center;
+    padding: 10px;
+    width: 200px;
+    height: 230px;
+    
+}
+
+#recommendations{
+    text-align: center;
+}
+
+#box{
+    text-align: center;
+    background-color: #92959ab5;
+    margin: 20px;
+    border-radius: 10px;
+    padding: 20px;
+    font-family: Consolas;
+    font-size: 20px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%); 
+    width: 70%
+}
+
+#page{
+    text-align: center;
+    background-image: url(library.jpg);  
+}
+
+input{
+    border-radius: 5px;
+}
+
+#main{
+    font-family:Freestyle Script;
+    font-size: 60px;
+}
+#logout{
+    font-family: Consolas;
+    font-size: 25px;
+    color: white;
+    text-decoration:none;
+    margin: 10px;
+}
+.error {
+  width: 20%; 
+  margin: 0px auto; 
+  padding: 10px; 
+  border: 1px solid #a94442; 
+  color: #a94442; 
+  background: #f2dede; 
+  border-radius: 5px; 
+  text-align: center;
+}
+#showBook{
+    height: 40px;
+    background-color: white;
+    border : 0px;
+    font-family: Consolas;
+}
+

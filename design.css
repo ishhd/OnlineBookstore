@@ -1,0 +1,126 @@
+img{
+   
+    width: 50%;
+}
+
+textarea{
+   width:270px; 
+   height:200px;
+
+}
+
+body{
+  text-align: center;
+  background-image: url(library.jpg); 
+  
+}
+
+
+
+
+#body{
+    
+    background-color: #92959ab5;
+    margin: 20px;
+    border-radius: 10px;
+    padding: 20px;
+    font-family: Consolas;
+    font-size: 20px;
+    position: absolute;
+    left: 50%;
+    top: 60%;
+    transform: translate(-50%, -50%); 
+    width: 70%;
+}
+#topdiv{
+     
+     background-color: #92959ab5;
+    margin: 20px;
+    border-radius: 10px;
+    padding: 20px;
+    font-family: Consolas;
+    font-size: 20px;
+    position: absolute;
+    left: 50%;
+    top: 15%;
+    transform: translate(-50%, -50%); 
+    width: 90%;
+    
+}
+#log{
+  background-color: #92959ab5;
+    width: 80px; 
+    height: 50px;
+  text-align: left;
+  font-family: Consolas;
+  font-size: 10px;  
+}
+
+#change{
+    background-color: #92959ab5;
+    margin: 20px;
+    border-radius: 10px;
+    padding: 20px;
+    font-family: Consolas;
+    font-size: 20px;
+    position: absolute;
+    left: 50%;
+    top: 140%;
+    transform: translate(-50%, -50%); 
+    width: 90%;
+
+}
+#butoon{
+    font-family: Consolas;
+      font-size: 20px;
+     width:100px; 
+     height:30px;
+}
+a{
+    color: white;
+    font-family: Consolas;
+    font-size: 40px;
+    text-decoration:none;
+    margin: 10px;
+}
+#book{
+     background-color: #4E8975	;
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+    padding: 10px;
+    width: 200px;
+    height: 230px;
+    
+}
+#books{
+    display: inline-block;
+    vertical-align: middle;
+    border-spacing: 20px;
+}
+p{
+    font-family: Consolas;
+    font-size: 20px;
+    text-decoration:none;
+    margin: 10px;
+
+}
+#ptop{
+    font-family:Consolas;
+    text-decoration:none;
+    margin: 10px;
+
+    
+}
+#text{
+  width:100%; 
+  height:200px;
+}
+
+#menu{
+    color: white;
+    font-family: Consolas;
+    font-size: 20px;
+    text-decoration:none;
+    margin: 10px;
+}

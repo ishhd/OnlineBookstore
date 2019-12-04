@@ -1,0 +1,146 @@
+#cart{
+    text-align: left;
+    background-color: #92959ab5;
+    overflow: hidden;
+    width: 90%;
+    height:auto; 
+    padding: 40px;
+    margin: 20px;
+    border-radius: 10px;
+    font-size: 60px;
+    font-family: Freestyle Script;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%); 
+}
+#logout{
+    font-family: Consolas;
+    font-size: 25px;
+}
+
+th,td{
+    color: black;
+    font-family: Consolas;
+    font-size: 30px;
+    text-decoration:none;
+    margin: 10px;
+}
+
+.topnav {
+  width: 100%;  
+  background-color: #333;
+  text-align: right;
+}
+
+nav {
+    text-align:left;
+    background-color: #92959ab5;
+    font-family: Consolas;
+    width: 23%;
+    padding: 40px;
+    margin: 20px;
+    border-radius: 10px;
+    font-size: 20px;
+    float: left;
+}
+
+article{
+    text-align: center;
+    float: right;
+    padding: 20px;
+    width: 70%;
+    font-family: Consolas;
+    background-color: #92959ab5;
+    margin: 20px;
+    border-radius: 10px;
+    
+}
+
+article3{
+    text-align: center;
+    background-color: #92959ab5;
+    margin: 20px;
+    border-radius: 10px;
+    padding: 20px;
+    font-family: Freestyle Script;
+    font-size: 40px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%); 
+    width: 70%;
+    overflow: hidden;
+        
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-image: url(library.jpg);  
+}
+
+
+@media (max-width: 600px) {
+  nav, article {
+    width: 100%;
+    height: auto;
+  }
+}
+
+section{
+display: table;
+  clear: both;
+}
+
+a{
+    color: white;
+    font-family: Freestyle Script;
+    font-size: 40px;
+    text-decoration:none;
+    margin: 10px;
+}
+
+
+
+input,form{
+    text-align: left;
+    color: black;
+    font-family: Consolas;
+    font-size: 20px;
+    text-decoration:none;
+    margin: 10px;  
+    
+}
+
+#books{
+    display: inline-block;
+    vertical-align: middle;
+    border-spacing: 20px;
+    
+}
+
+#book{
+    display: table-cell;
+    vertical-align: middle;
+    background-color: #4E8975;
+    text-align: center;
+    padding: 10px;
+    width: 200px;
+    height: 230px;
+    
+}
+
+button{
+    text-align: left;
+    color: black;
+    font-family: Consolas;
+    font-size: 30px;
+    text-decoration:none;
+    margin: 10px;         
+    
+    
+}
+
